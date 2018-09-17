@@ -1,7 +1,8 @@
 # social-engineer
 Social hacks, tips, nuances for working as an engineer. This is not a technical thing, but it is most important thing for working in tech with other talented engineers. 
   
-To work effectively in a team, you will need to have organic relationships with other co-workers, 
+- To work effectively in a team, you will need to have organic relationships with other co-workers.
+- Make your work life better by communicating better.
 
 ## Communication
 
